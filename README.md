@@ -5,4 +5,4 @@ The purpose of this repository is to help Bilkent students in understanding meas
 
 As this course first required the preliminary work then the full report, only the full reports have been uploaded as they contain all the required information.
 
-Good luck and have fun
+Good luck and have fun.
